@@ -1,0 +1,1 @@
+To run "test_min_heap.js" from terminal (this directory), execute CLI: "npm start"

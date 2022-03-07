@@ -1,0 +1,12 @@
+{
+  "name": "binary_search_tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test_binary_search_tree.js",
+  "scripts": {
+    "start": "node test_binary_search_tree.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

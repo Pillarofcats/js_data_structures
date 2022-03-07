@@ -1,0 +1,1 @@
+To run "Stack_Test.js" from terminal (this directory), execute CLI: "npm start"

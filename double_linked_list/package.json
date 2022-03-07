@@ -1,0 +1,13 @@
+{
+  "name": "double_linked_list",
+  "version": "1.0.0",
+  "main": "double_linked_list.js",
+  "scripts": {
+    "start": "node double_linked_list_test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

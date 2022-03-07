@@ -1,0 +1,2 @@
+DATA STRUCTURE:        ACCESS  SEARCH INSERTION DELETION
+Singly Linked list	 O(N)	 O(N)	 O(1)	  O(1)

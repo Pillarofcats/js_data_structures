@@ -1,0 +1,1 @@
+To run "TestLinkedList.js" from terminal (this directory), execute CLI: "npm start"

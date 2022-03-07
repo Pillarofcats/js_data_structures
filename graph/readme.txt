@@ -1,0 +1,1 @@
+To run "test_graph.js" from terminal (this directory), execute CLI: "npm start"

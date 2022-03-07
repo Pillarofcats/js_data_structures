@@ -1,0 +1,1 @@
+To run "test_max_heap.js" from terminal (this directory), execute CLI: "npm start"

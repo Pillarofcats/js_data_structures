@@ -1,0 +1,1 @@
+To run "double_linked_list_test.js" from terminal (this directory), execute CLI: "npm start"

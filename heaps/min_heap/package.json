@@ -1,0 +1,12 @@
+{
+  "name": "heaps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test_min_heap.js",
+  "scripts": {
+    "start": "node test_min_heap.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,1 @@
+To run "test_binary_search_tree.js" from terminal (this directory), execute CLI: "npm start"
